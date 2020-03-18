@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584397124 source:c:\users\user\desktop\an 2 s2\poo\tema 1\clasa_numar_complex\src\complex.cpp
+	"Complex.h"
+	<cmath>
+	<bits/stdC++.h>
+
+1584394998 c:\users\user\desktop\an 2 s2\poo\tema 1\clasa_numar_complex\include\complex.h
+	<iostream>
+	<cmath>
+
+1584395281 source:c:\users\user\desktop\an 2 s2\poo\tema 1\clasa_numar_complex\main.cpp
+	<iostream>
+	<Complex.h>
+	<cmath>
+
