@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1588613113 source:c:\users\user\desktop\an 2 s2\poo\tema 2\tema_2_complex_vector_stiva_coada\main.cpp
+	<iostream>
+	"Complex.h"
+	"Vector.h"
+	"stiva.h"
+	"coada.h"
+
+1588269556 c:\users\user\desktop\an 2 s2\poo\tema 2\tema_2_complex_vector_stiva_coada\complex.h
+	<iostream>
+	<bits/stdC++.h>
+
+1588616047 c:\users\user\desktop\an 2 s2\poo\tema 2\tema_2_complex_vector_stiva_coada\vector.h
+	<iostream>
+	<bits/stdC++.h>
+
+1588616064 c:\users\user\desktop\an 2 s2\poo\tema 2\tema_2_complex_vector_stiva_coada\stiva.h
+	<iostream>
+	<bits/stdC++.h>
+	"Complex.h"
+	"Vector.h"
+
+1588616064 c:\users\user\desktop\an 2 s2\poo\tema 2\tema_2_complex_vector_stiva_coada\coada.h
+	<iostream>
+	<bits/stdC++.h>
+	"Complex.h"
+	"Vector.h"
+
